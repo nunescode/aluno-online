@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "tests": "cypress open"
+    "tests": "cypress open",
+    "test": "jest"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
